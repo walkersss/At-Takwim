@@ -29,3 +29,5 @@ Features and functions available in this app consist of:-
 -Cooking video on every recipe that we integrated from YouTube.
 
 ![Sequence diagram](/images/Recipeapp.png)
+
+prototype : https://pr.to/2TM8TA/
