@@ -27,3 +27,5 @@ Features and functions available in this app consist of:-
 -Sort the recipes by category for better search experience.
 -Leave comments on the recipe’s comment section for registered user.
 -Cooking video on every recipe that we integrated from YouTube.
+
+[Sequence diagram](/images/recipe diagram.png)
