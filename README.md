@@ -29,3 +29,4 @@ Features and functions available in this app consist of:-
 -Cooking video on every recipe that we integrated from YouTube.
 
 ![Sequence diagram](/images/recipe app.png)
+![GitHub Logo](/images/logo.png)
