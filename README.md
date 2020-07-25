@@ -27,20 +27,20 @@ The app will have few features and functionalities that allows users to navigate
 
 **Features:**
 Features and functions available in this app consist of:-
--View recipes for both registered user and guest.
--Add and delete recipes added by registered user.
--Sort the recipes by category for better search experience.
--Leave comments on the recipe’s comment section for registered user.
--Cooking video on every recipe that we integrated from YouTube.
+* View recipes for both registered user and guest.
+* Add and delete recipes added by registered user.
+* Sort the recipes by category for better search experience.
+* Leave comments on the recipe’s comment section for registered user.
+* Cooking video on every recipe that we integrated from YouTube.
 
 **Functionalities:**
 
-**API:** Routing the pages.
-**Components:** React native is using components approach.
-**Error checking** To ensure users does not experience logics or system error.
-**Authentication** Only autghorized users can login.
-**Firebase for data storage** Storing all the recipes.
-**UI toolkit**
+* **API:** Routing the pages.
+* **Components:** React native is using components approach.
+* **Error checking** To ensure users does not experience logics or system error.
+* **Authentication** Only autghorized users can login.
+* **Firebase for data storage** Storing all the recipes.
+* **UI toolkit**
 
 ![Sequence diagram](/images/Recipeapp.png)
 
