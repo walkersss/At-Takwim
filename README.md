@@ -23,6 +23,7 @@ user can comment on recipe and user can view videos and photos of the recipe.
 The objective of this application is to be a platform for consumers, food lover to try out new recipes shared by the people with same passion and interest. Discover and try out new culture in cooking around the world, interact with the sharer of those recipes for any inquiries or simply leave a gratification message to them. We also aim to help people by saving their money than spending it for recipe books that eventually will be updated with new recipe every month. This application will become a community for anyone to share their recipe from housewives to renowned chef like sous and pastry chef.
 
 **Features & functionalities**
+
 The app will have few features and functionalities that allows users to navigate the recipes at ease
 
 **Features:**
