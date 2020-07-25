@@ -36,9 +36,9 @@ Features and functions available in this app consist of:-
 
 **Functionalities:**
 
-* **API:** Routing the pages.
-* **Components:** React native is using components approach.
-* **Error checking** To ensure users does not experience logics or system error.
+* **API:** For routing the pages we will use react-navigation and react-navigation-stack libraries, we also would use gesture handler because in the app, we will allow user to perform certain actions with gesture like zooming in on the picture. Our main operation with this application is with user's camera for them to upload a photos or videos from their camera or gallery. So we will use camera API in this project.
+* **Components:** React native is using components approach. The basic components will be used the most would be props, states, functions.  Also, another component we wish to use is Alert to notify users if they encounter certain errors or to tell users any updates they made like "Photos uploaded!". For appearance we will use UI Toolkit probably React Native Elements and any other presentational components such as View, Text, Image, Textinput, ScrollView, Stylesheet, Button, SectionList to differentiate area for comments and uploaders post.
+* **Error checking** To ensure users does not experience logics or system error. Mainly, we will do error checking in authentication level and check whether users are regisered or not when they attempt to upload new post or comment on other user's post.
 * **Authentication** Only autghorized users can login.
 * **Firebase for data storage** Storing all the recipes.
 * **UI toolkit**
