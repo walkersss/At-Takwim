@@ -2,7 +2,7 @@
 
 Title of The Project: MakanToday (Mobile Application for Food Recipe) 
 
-Group Member: 
+*Group Member:*
 
 1)	MUHAMMAD NUR AFIQ NUKMAN BIN MOHD SAZALI 1620045 
 2)	MUHAMAD IRFAN BIN MUHAMAD KHAIRI 1623705 
