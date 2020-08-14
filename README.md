@@ -43,6 +43,6 @@ Features and functions available in this app consist of:-
 * **Firebase for data storage** When an application involves a lot of content especially when involving user's custom media from their camera and gallery, we need firebase to store all that. User's profile and password, their uploaded media(photos and videos) Storing all the recipes, questions, comments.
 * **UI toolkit** 
 
-![Sequence diagram](/images/Recipeapp.png)
+![Sequence diagram](/images/Seqdiagram .jpg)
 
 prototype : https://pr.to/2TM8TA/
