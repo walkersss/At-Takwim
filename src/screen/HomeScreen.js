@@ -11,6 +11,8 @@ import {
   Keyboard,
   Platform, SafeAreaView, Alert
 } from "react-native";
+import{IconButton, Colors} from "react-native-paper";
+import Icon from 'react-native-vector-icons/FontAwesome';
 
 const isAndroid = Platform.OS == "android";
 const viewPadding = 10;
@@ -115,6 +117,7 @@ export default class ProjectList extends Component {
           returnKeyType="done"
           returnKeyLabel="done"
         />
+        <IconButton icon="myIcon" onPress={() => console.log('Pressed')}/>
       </View></SafeAreaView>
     );
   }
@@ -182,5 +185,3 @@ const styles = StyleSheet.create({
 });
 
 AppRegistry.registerComponent("ProjectList", () => ProjectList);
-
-
