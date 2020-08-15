@@ -152,6 +152,7 @@ const styles = StyleSheet.create({
   tajuk: {
     fontSize: 35,
     fontWeight: "bold",
+    textAlign: "center",
   },
   list: {
     width: "100%"
