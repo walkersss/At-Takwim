@@ -1,16 +1,5 @@
 import React, { Component } from "react";
-import {
-  AppRegistry,
-  StyleSheet,
-  Text,
-  View,
-  FlatList,
-  AsyncStorage,
-  Button,
-  TextInput,
-  Keyboard,
-  Platform, SafeAreaView, Alert
-} from "react-native";
+import { AppRegistry, StyleSheet, Text, View, FlatList, AsyncStorage, Button, TextInput, Keyboard, Platform, SafeAreaView, Alert} from "react-native";
 import{IconButton, Colors} from "react-native-paper";
 import Icon from 'react-native-vector-icons/FontAwesome';
 
